@@ -1,2 +1,2 @@
 # JSC270
-## Lab and Assigment
+## Lab and Assignment
